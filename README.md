@@ -23,3 +23,11 @@ This project aims to develop a program that allows users to process images using
 4. الكشف عن الكائنات: يمكن للمستخدمين استخدام تقنيات الذكاء الاصطناعي ومكتبة OpenCV للكشف عن كائنات معينة في الصور، مثل الوجوه، أو السيارات، أو الأشخاص.
 5. تحليل الصور: يمكن للمستخدمين استخدام البرنامج لتحليل الصور واستخراج المعلومات المفيدة منها، مثل الأشكال الهندسية، أو الألوان المهيمنة.
 6. حفظ الصور: يمكن للمستخدمين حفظ الصور المعالجة في ملفات جديدة على جهاز الكمبيوتر الخاص بهم.
+
+
+## الصفحة الرئيسية: 
+![Main](https://github.com/HavedAlhadi/Image-Editor-By-Python/assets/130609547/346e475e-d415-4adc-a0ed-43a599511a0a)
+
+## صفحة التعديل: 
+![dfdsfsdbcvb](https://github.com/HavedAlhadi/Image-Editor-By-Python/assets/130609547/d1a3ccb1-3407-4daa-b66d-bc5a53a194b0)
+
